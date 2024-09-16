@@ -1,2 +1,2 @@
-# spring-skeletton
+# spring-skeleton
 Generic Spring "Hello World" backend server.
